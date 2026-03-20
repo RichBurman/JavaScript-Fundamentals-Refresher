@@ -1,5 +1,5 @@
 // JavaScript Practice File
-// use node.practice.js to run this file in the terminal
+// use node practice.js to run this file in the terminal
 
 console.log("Hello, JavaScript!");
 
